@@ -6,23 +6,23 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Laravel, CodeIgniter, C# .NET],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "Angular", "Ionic"],
+         css: ["Materialize", "Tailwind", "Bootstrap", "Material Design"]
       },
       backEnd: {
-         java: ["Spring"],
+         PHP: ["Laravel", "CodeIgniter"],
          js: ["Node", "Express"],
          csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Jest", "nx", "ngxs", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Ionic"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Sr. Software Engineer & Team Lead (UI) at Macrosoft Inc."],
+   challenge: "I'm working towards being able to manage huge team.",
 };
 ```
 </br></br>
