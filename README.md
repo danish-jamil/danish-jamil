@@ -10,16 +10,16 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular", "Ionic"],
-         css: ["Materialize", "Tailwind", "Bootstrap", "Material Design"]
+         css: ["Materialize", "Tailwind", "Bootstrap", "Material Design"],
+         misc: ["Jest", "nx", "ngxs", "Cypress"],
       },
       backEnd: {
          PHP: ["Laravel", "CodeIgniter"],
          js: ["Node", "Express"],
          csharp: ["Asp.net Core"],
-         misc: ["Jest", "nx", "ngxs", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Ionic"]
+      mobile: ["Ionic"],
    },
    currentOccupation: ["Sr. Software Engineer & Team Lead (UI) at Macrosoft Inc."],
    challenge: "I'm working towards being able to manage huge teams.",
